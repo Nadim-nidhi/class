@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Saira+Semi+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+*{
+	margin:0px;
+	padding: 0px;
+	box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+}
+body{
+	font-family: 'Saira Semi Condensed', sans-serif;
+}
+header{
+	background-image: url(../images/bannerbg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color:#e98e8e;
+	background-blend-mode: multiply;
+
+}
+.top-header{background-color: black;}
+.top-header p{
+	margin-bottom: 0;
+    color: #ddcd59;
+    text-transform: uppercase;
+    padding: 5px 0px;
+    font-size: 13px;
+}
+.top-left{}
+.top-left p{
+	    margin: 0px;
+	    color: white;
+	        font-size: 14px;
+	            padding-left: 20px;
+}
+.top-right{}
+.top-right ul{}
+.top-right ul li{}
+.top-right ul li a{
+	color: white;
+}
+.top-right ul li a:hover{}
+.top-right ul li select{}
+.top-right ul li select option{
+	    background-color: #cd766e;
+}
+.navbar{}
+.navbar .collapse{
+	width: 40%;
+}
+.navbar .collapse ul{}
+.navbar .collapse ul li{}
+.navbar .collapse ul li a{
+	    font-weight: 600;
+    padding: 0px 14px!important;
+
+}
+.last-part{
+	padding:80px 0px;
+}
+.last-part h1{
+    color: white;
+}
+.last-part h2{
+    color: white;
+}
+.btn-danger {
+    color: #fff;
+    background-color: #345c8b;
+    border-color: #dc3545;}
+.nav-link {
+    display: block;
+    padding: 0.5rem 0.5rem;}
+.form-control {
+
+    color: #fff;
+    background-color: transparent; 
+    }   
+.menu-right{
+	
+}
+.navbar-brand{
+	
+}
+
+.nav{
+	
+}
+.card-menu {
+    width: 40%;
+}
+.card-menu li {}
+.card-menu li a{
+	color: white;
+}
+.top-right ul.abc{
+
+}
+.navbar-brand img{
+	    filter: invert(2);
+}
+

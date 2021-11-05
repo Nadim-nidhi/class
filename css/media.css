@@ -1,0 +1,45 @@
+@media(max-width: 1399px){
+
+}
+/******************************************************xl end**/
+@media(max-width: 1199px){
+
+}
+/******************************************************lg end*/
+@media(max-width: 991px){
+.navbar .collapse ul li:last-child{
+
+}
+}
+/******************************************************md end*/
+@media(max-width: 767px){
+.top-right ul li a {
+    color: white;
+    font-size: 14px;}
+}
+/*******************************************************sm end*/
+@media(max-width: 575px){
+
+	.top-left p {
+
+    text-align: center;}
+    .top-right ul {
+    	justify-content: center!important;
+}
+.top-left p {
+
+    padding-left:0px;
+}
+.last-part h1 {
+ 
+    font-size: 24px;}
+.last-part h2 {
+
+    font-size: 21px;
+}
+.btn {
+    
+    line-height: 0.8;
+}
+}
+/*******************************************************mobile device end*/
